@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @solitario56 
-- 👀 I’m interested in new things
-- 🌱 I’m currently learning code and new languajes
+<body>
+  <h1>Bienvenido a mi perfil!</h1>
+</body>
 
 <!---
 solitario56/solitario56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
